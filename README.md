@@ -1,4 +1,11 @@
-### Hi there 👋
+![Logo](http://almtech.se/images/logo.png)
+
+	--------------------------------
+	Website: http://www.almtech.se
+	Email: elias@almtech.se
+	
+	
+  
 
 <!--
 **E-Almqvist/E-Almqvist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
