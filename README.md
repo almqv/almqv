@@ -1,8 +1,7 @@
-![Logo](http://almtech.se/images/logo.png)
-
-	--------------------------------
-	Website: http://www.almtech.se
-	Email: elias@almtech.se
+# Hello there
+--------------------------------
+- Website: http://www.almtech.se
+- Email: elias@almtech.se
 	
 	
   
