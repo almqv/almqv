@@ -4,4 +4,4 @@
 <br>
 *PGP:* `68B2976849F03C7238AEB081E31A99CE3E75A158` 
 <br>
-*Donate (Bitcoin):* `19rcbUY1xoQ6SqQzVQQNYikvGiuVGxKLPR`
+*Donate (BTC):* `19rcbUY1xoQ6SqQzVQQNYikvGiuVGxKLPR`
