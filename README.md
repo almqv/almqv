@@ -1,4 +1,4 @@
-![](https://github-readme-stats.vercel.app/api?username=E-Almqvist&line_height=20&count_private=true&theme=light&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=E-Almqvist&exclude_repo=dotfiles,st,dmenu,dwm&layout=compact&count_private=true&theme=light&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=E-Almqvist&line_height=20&count_private=true&theme=light&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=E-Almqvist&exclude_repo=dotfiles,st,dmenu&layout=compact&count_private=true&theme=light&hide_border=true)
 
 *Website:* <a href="http://almtech.se" target="_blank">almtech.se</a>
 <br>
