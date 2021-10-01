@@ -14,5 +14,5 @@
 
 <div align="middle">
 <img src="https://github-readme-stats.vercel.app/api?username=E-Almqvist&line_height=20&hide_border=true&show_icons=true"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-Almqvist&exclude_repo=dotfiles,st,dmenu,adventofcode,portfolio-website,prog1&layout=compact&count_private=true&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-Almqvist&exclude_repo=dotfiles,st,prog2,dmenu,adventofcode,portfolio-website,prog1&layout=compact&count_private=true&hide_border=true">
 </div>
