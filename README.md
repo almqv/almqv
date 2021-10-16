@@ -5,7 +5,7 @@
 		<strong>Website:</strong> <a href="http://almtech.se" target="_blank">almtech.se</a><br>
 		<strong>PGP:</strong> <code>68B2976849F03C7238AEB081E31A99CE3E75A158</code><br>
 		<strong>Donate (XMR):</strong> <code>89J3M3B189kNZ9NzgYf5syECgtVwzfpZq45c1VvpqThvYcY6UxDDuJUH4uZ5hDH9ne8uw5R7VhUPc2AoDBBpJ3p15UxGBoX</code><br>
-		<strong>Donate (BTC):</strong> <code>19rcbUY1xoQ6SqQzVQQNYikvGiuVGxKLPR</code><br>
+		<strong>Donate (ETH):</strong> <code>0x911E5f336c0371bBdD80773D2910E352545461F8</code><br>
 	</p>
 </div>
 
