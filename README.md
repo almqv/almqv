@@ -5,9 +5,7 @@
 <strong>Donate (ETH):</strong> <code>0x911E5f336c0371bBdD80773D2910E352545461F8</code><br>
 <strong>Donate (XMR):</strong> <code>89J3M3B189kNZ9NzgYf5syECgtVwzfpZq45c1VvpqThvYcY6UxDDuJUH4uZ5hDH9ne8uw5R7VhUPc2AoDBBpJ3p15UxGBoX</code><br>
 
-
-<div align="middle">
 <img src="https://github-readme-stats.vercel.app/api?username=E-Almqvist&line_height=20&hide_border=true&show_icons=true"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-Almqvist&exclude_repo=dotfiles,st,prog2,dmenu,adventofcode,portfolio-website,prog1&layout=compact&count_private=true&hide_border=true">
-</div>
+
 <h1> </h1>
